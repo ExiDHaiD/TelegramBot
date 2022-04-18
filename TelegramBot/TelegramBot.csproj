@@ -100,7 +100,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\TradingFramework\TradingFramework\TradingFramework.csproj">
+    <ProjectReference Include="..\TradingFramework\TradingFramework.csproj">
       <Project>{6825da52-b715-4dc7-b1b4-1870677989e5}</Project>
       <Name>TradingFramework</Name>
     </ProjectReference>
