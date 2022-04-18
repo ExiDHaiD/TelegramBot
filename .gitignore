@@ -1,0 +1,4 @@
+*.suo
+/TelegramBot/bin
+/TelegramBot/obj
+/packages
